@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.ip",
+	"ip":"Trickland.aternos.me",
 	"port": "25565",
-	"name": "afkbot1",
+	"name": "Trickland bot",
 	"auto-night-skip":"true"
 }
